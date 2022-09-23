@@ -1,7 +1,7 @@
 package programmers.level1;
 import java.util.ArrayList;
 
-public class 약수의합 {
+public class 약수의_합 {
     public static int solution(int n) {
         int answer = 0;
 
